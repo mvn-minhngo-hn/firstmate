@@ -1,0 +1,16 @@
+lab session: fm-lab-repo-tree-ev-3292-9678  lab home: /private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6
+spawn anchor exit=0
+spawn alpha-1 exit=0
+spawn alpha-2 exit=0
+spawn beta-1 exit=0
+repo parent 'alpha' => w2
+repo parent 'beta' => w5
+alpha-1 ws=w3 wt=/Users/minh.ngo/.treehouse/alpha-22a731/2/alpha
+alpha-2 ws=w4 wt=/Users/minh.ngo/.treehouse/alpha-22a731/3/alpha
+beta-1 ws=w6 wt=/Users/minh.ngo/.treehouse/beta-5cb129/1/beta
+teardown alpha-1 exit=0
+teardown alpha-2 exit=0
+teardown beta-1 exit=0
+teardown anchor exit=0
+driver done
+cleanup done (lab home removed: yes)

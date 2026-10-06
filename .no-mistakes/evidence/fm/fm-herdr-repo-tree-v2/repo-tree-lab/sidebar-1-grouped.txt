@@ -1,0 +1,8 @@
+## after spawning alpha-1, alpha-2 (repo alpha) and beta-1 (repo beta)
+## NOTE: raw workspace-list order (projection ordering puts the first child ahead of its fresh parent); see repo-tree-groups.txt for the group nesting Herdr reports.
+firstmate   [w1]
+    ├─ └ alpha-1 · p:6apnhBt3MnT-4dR6uc57gw   [w3 linked-child of repo_root=alpha]
+alpha   [w2]
+    ├─ └ alpha-2 · p:svRq9VAO8u2ZvtLEEMllkg   [w4 linked-child of repo_root=alpha]
+    ├─ └ beta-1 · p:H3glb3IFaRFH96G41HqBxw   [w6 linked-child of repo_root=beta]
+beta   [w5]

@@ -1,0 +1,8 @@
+fm-gate-refuse: gate agent lifecycle permitted only against lab home /private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6
+warning: /private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/data/beta-1/launch-brief.md records no ship branch; defaulting to legacy branch fm/beta-1
+warning: /private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/data/beta-1/launch-brief.md records no delivery contract line (scaffolded before ship briefs recorded one); launching on the explicit --mode no-mistakes - confirm its definition of done matches
+A new version of treehouse is available: v2.0.1 → v3.1.2
+Run "treehouse update" to update
+
+🌳 Setting up worktree...
+🌳 Leased worktree at ~/.treehouse/beta-5cb129/1/beta. Run 'treehouse return ~/.treehouse/beta-5cb129/1/beta' to release it.

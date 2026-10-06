@@ -1,0 +1,42 @@
+ spaces                  │   1      +
+                         │minh.ngo@MBA010261 fm-lab.saarb8 %
+ · firstmate             │
+ · alpha                ▾│
+   main                  │
+   ├─ · └ grp-alpha2 ·…  │
+   └─ · └ grp-alpha-no…  │
+ · beta                 ▾│
+   main                  │
+   └─ · └ grp-beta · p…  │
+ · └ grp-gamma-nopy · …  │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+ new                 menu│
+─────────────────────────│
+ agents           grouped│
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                         │
+                        «│

@@ -1,0 +1,10 @@
+ok - herdr projection teardown retires its journal only after confirming the exact recorded pane is gone
+ok - herdr projection teardown refuses a viewed task tab before its worktree, branch, or records are touched
+ok - herdr projection teardown retains every record when post-close presence is unknown
+ok - herdr projection teardown sweeps the journal when the exact pane was already gone before teardown
+ok - herdr projection teardown sweeps the journal when its token is gone and the exact pane is closed
+ok - herdr teardown stops every task process except the pane's root shell before the exact-pane close
+ok - herdr projection teardown surfaces failed focus restoration without turning confirmed cleanup into a hard failure
+ok - herdr teardown refuses a still-parked own run before closing the worker pane
+selected teardown tests done
+exit=0

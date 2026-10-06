@@ -1,0 +1,4 @@
+anchor.git-hooks
+anchor.meta
+home-summary.json
+terminal-outcomes

@@ -1,0 +1,4 @@
+## after tearing down alpha-1, alpha-2, beta-1
+firstmate   [w1]
+alpha   [w2]
+beta   [w5]

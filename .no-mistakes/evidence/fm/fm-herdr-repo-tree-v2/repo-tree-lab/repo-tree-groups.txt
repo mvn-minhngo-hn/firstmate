@@ -1,0 +1,8 @@
+## Herdr worktree groups after spawning alpha-1, alpha-2 (repo alpha) and beta-1 (repo beta)
+## (from 'worktree list --workspace <parent>' + 'workspace list'; Herdr's sidebar nests each linked child under its group source)
+firstmate [w1]  (home row; flat anchor task tab lives here)
+alpha [w2]  group source, repo_root=alpha
+    └─ └ alpha-1 · p:6apnhBt3MnT-4dR6uc57gw [w3]  linked worktree /Users/minh.ngo/.treehouse/alpha-22a731/2/alpha
+    └─ └ alpha-2 · p:svRq9VAO8u2ZvtLEEMllkg [w4]  linked worktree /Users/minh.ngo/.treehouse/alpha-22a731/3/alpha
+beta [w5]  group source, repo_root=beta
+    └─ └ beta-1 · p:H3glb3IFaRFH96G41HqBxw [w6]  linked worktree /Users/minh.ngo/.treehouse/beta-5cb129/1/beta

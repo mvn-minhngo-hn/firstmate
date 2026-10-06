@@ -1,0 +1,5 @@
+report exit=0
+agent get immediately:
+{"id":"cli:agent:get","result":{"agent":{"agent":"test-agent","agent_status":"idle","cwd":"/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/beta","focused":false,"foreground_cwd":"/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/beta","pane_id":"w7:p1","revision":0,"state_change_seq":1,"tab_id":"w7:t1","terminal_id":"term_65d26c89322f1b","workspace_id":"w7"},"type":"agent_info"}}
+agent get after 2s:
+{"error":{"code":"agent_not_found","message":"agent target w7:p1 not found"},"id":"cli:agent:get"}

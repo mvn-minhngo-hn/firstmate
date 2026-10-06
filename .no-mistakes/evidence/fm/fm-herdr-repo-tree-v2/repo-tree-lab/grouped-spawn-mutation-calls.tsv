@@ -1,0 +1,11 @@
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--label	alpha	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--label	└ alpha-1 · p:6apnhBt3MnT-4dR6uc57gw	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+pane	close	w3:p1	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	open	--workspace	w2	--path	/Users/minh.ngo/.treehouse/alpha-22a731/2/alpha	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--label	└ alpha-2 · p:svRq9VAO8u2ZvtLEEMllkg	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+pane	close	w4:p1	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	open	--workspace	w2	--path	/Users/minh.ngo/.treehouse/alpha-22a731/3/alpha	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/beta	--label	beta	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/beta	--label	└ beta-1 · p:H3glb3IFaRFH96G41HqBxw	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+pane	close	w6:p1	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	open	--workspace	w5	--path	/Users/minh.ngo/.treehouse/beta-5cb129/1/beta	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678

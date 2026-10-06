@@ -1,0 +1,13 @@
+== treehouse status (alpha)
+A new version of treehouse is available: v2.0.1 → v3.1.2
+Run "treehouse update" to update
+
+1     leased       ~/.treehouse/alpha-22a731/1/alpha  (held by fm-anchor)
+                   zsh (3813), bash (4877), sleep (38376)
+2     available    ~/.treehouse/alpha-22a731/2/alpha
+3     available    ~/.treehouse/alpha-22a731/3/alpha
+== treehouse status (beta)
+A new version of treehouse is available: v2.0.1 → v3.1.2
+Run "treehouse update" to update
+
+1     available    ~/.treehouse/beta-5cb129/1/beta

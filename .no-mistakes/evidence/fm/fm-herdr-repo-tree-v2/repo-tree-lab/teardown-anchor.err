@@ -1,0 +1,2 @@
+fm-gate-refuse: gate agent lifecycle permitted only against lab home /private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6
+teardown: reaping leaked worktree process(es) for anchor: 4877 38376

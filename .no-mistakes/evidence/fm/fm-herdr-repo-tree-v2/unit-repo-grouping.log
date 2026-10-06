@@ -1,0 +1,11 @@
+check_directory_for_new_repository:5: not a directory: /Users/minh.ngo/.no-mistakes/worktrees/45116ebf5320/01M47S8SPJ0SEW1YWF2RRGGERP/.git/hooks/pre-push
+chmod: /Users/minh.ngo/.no-mistakes/worktrees/45116ebf5320/01M47S8SPJ0SEW1YWF2RRGGERP/.git/hooks/pre-push: Not a directory
+ok - herdr repo grouping: capability gate requires the presentation protocol floor plus worktree.open and worktree.list in the schema
+ok - herdr repo grouping: parent label is <repo> in the primary home and <home-label> · <repo> in a secondmate home
+ok - herdr repo grouping: parent ensure adopts only the exact-label workspace that is its own group source at the clone, creates with --no-focus otherwise, and refuses ambiguity
+ok - herdr repo grouping: a repository named like a home only ever adopts the launcher's own home workspace and never creates a second one
+ok - herdr repo grouping: attach opens only a worktree Herdr already reports in this task's workspace and accepts only the same-id already_open answer
+ok - herdr presentation ordering: a repo parent of this home is a block member only by provenance, so a fresh parent never strands later spawns
+ok - herdr presentation binding: a repo parent of this home may sit between the home workspace and its child only by provenance
+selected unit tests done
+exit=0

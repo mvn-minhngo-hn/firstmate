@@ -1,0 +1,442 @@
+status	--json
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--label	firstmate	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	create	--workspace	w1	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--label	fm-anchor	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w1:p1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	close	w1:p1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w1:p2	cd -- '/Users/minh.ngo/.treehouse/alpha-22a731/1/alpha'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w1:p2	cd -- '/Users/minh.ngo/.treehouse/alpha-22a731/1/alpha'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w1:p2	export GOTMPDIR=/tmp/fm-anchor/gotmp	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w1:p2	export COMPACT_ADVISER_DISABLE=1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w1:p2	export FM_TASK_ID=anchor	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	send-text	w1:p2	. '/tmp/fm-anchor+1a5c7f37ffabfffacf703a301d6b82bab4cd23e942fda1d0055560f650d3bf43/launch.s1791270947.3427.17430.sh'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	send-keys	w1:p2	enter	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+api	schema	--json	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	list	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+api	schema	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--label	alpha	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--label	└ alpha-1 · p:6apnhBt3MnT-4dR6uc57gw	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	create	--workspace	w3	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--label	fm-alpha-1	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w3	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w3	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w3:p1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w3	--session	fm-lab-repo-tree-ev-3292-9678
+terminal	title	clear	--session	fm-lab-repo-tree-ev-3292-9678
+pane	close	w3:p1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w3	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w3	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+api	schema	--json	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w3	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w3	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w3:p2	cd -- '/Users/minh.ngo/.treehouse/alpha-22a731/2/alpha'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	list	--cwd	/Users/minh.ngo/.treehouse/alpha-22a731/2/alpha	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	open	--workspace	w2	--path	/Users/minh.ngo/.treehouse/alpha-22a731/2/alpha	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w3:p2	cd -- '/Users/minh.ngo/.treehouse/alpha-22a731/2/alpha'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w3:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w3:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w3:p2	export GOTMPDIR=/tmp/fm-alpha-1/gotmp	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w3:p2	export COMPACT_ADVISER_DISABLE=1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w3:p2	export FM_TASK_ID=alpha-1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	send-text	w3:p2	. '/tmp/fm-alpha-1+1a5c7f37ffabfffacf703a301d6b82bab4cd23e942fda1d0055560f650d3bf43/launch.s1791270955.4923.30385.sh'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	send-keys	w3:p2	enter	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+api	schema	--json	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	list	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	list	--workspace	w2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--label	└ alpha-2 · p:svRq9VAO8u2ZvtLEEMllkg	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	create	--workspace	w4	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/alpha	--label	fm-alpha-2	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w4	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w4	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w4:p1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w4	--session	fm-lab-repo-tree-ev-3292-9678
+terminal	title	clear	--session	fm-lab-repo-tree-ev-3292-9678
+pane	close	w4:p1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w4	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w4	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w4	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w4	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w4:p2	cd -- '/Users/minh.ngo/.treehouse/alpha-22a731/3/alpha'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	list	--cwd	/Users/minh.ngo/.treehouse/alpha-22a731/3/alpha	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	open	--workspace	w2	--path	/Users/minh.ngo/.treehouse/alpha-22a731/3/alpha	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w4:p2	cd -- '/Users/minh.ngo/.treehouse/alpha-22a731/3/alpha'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w3:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w4:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w3:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w4:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w4:p2	export GOTMPDIR=/tmp/fm-alpha-2/gotmp	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w4:p2	export COMPACT_ADVISER_DISABLE=1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w4:p2	export FM_TASK_ID=alpha-2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	send-text	w4:p2	. '/tmp/fm-alpha-2+1a5c7f37ffabfffacf703a301d6b82bab4cd23e942fda1d0055560f650d3bf43/launch.s1791270963.7366.24292.sh'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	send-keys	w4:p2	enter	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+api	schema	--json	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	list	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/beta	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+api	schema	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/beta	--label	beta	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	create	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/beta	--label	└ beta-1 · p:H3glb3IFaRFH96G41HqBxw	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	create	--workspace	w6	--cwd	/private/var/folders/6s/ldbywjcs4lddfhrtg2xsy1yr0000gp/T/fm-lab.veLfr6/projects/beta	--label	fm-beta-1	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w6	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w6	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w6:p1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w6	--session	fm-lab-repo-tree-ev-3292-9678
+terminal	title	clear	--session	fm-lab-repo-tree-ev-3292-9678
+pane	close	w6:p1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w6	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w6	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+api	schema	--json	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w6	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w6	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w6:p2	cd -- '/Users/minh.ngo/.treehouse/beta-5cb129/1/beta'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	list	--cwd	/Users/minh.ngo/.treehouse/beta-5cb129/1/beta	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+worktree	open	--workspace	w5	--path	/Users/minh.ngo/.treehouse/beta-5cb129/1/beta	--no-focus	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w6:p2	cd -- '/Users/minh.ngo/.treehouse/beta-5cb129/1/beta'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w3:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w4:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w6:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w3:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w4:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w6:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w6:p2	export GOTMPDIR=/tmp/fm-beta-1/gotmp	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w6:p2	export COMPACT_ADVISER_DISABLE=1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	run	w6:p2	export FM_TASK_ID=beta-1	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	send-text	w6:p2	. '/tmp/fm-beta-1+1a5c7f37ffabfffacf703a301d6b82bab4cd23e942fda1d0055560f650d3bf43/launch.s1791270987.12964.31040.sh'	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	send-keys	w6:p2	enter	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	process-info	--pane	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w3	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w3	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+pane	process-info	--pane	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+terminal	title	clear	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w3:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w4:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w6:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w4:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w6:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	process-info	--pane	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w4	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w4	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+pane	process-info	--pane	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+terminal	title	clear	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w4:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w6:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w6:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	process-info	--pane	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w6	--session	fm-lab-repo-tree-ev-3292-9678
+pane	list	--workspace	w6	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+pane	process-info	--pane	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+terminal	title	clear	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w6:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	read	w1:p2	--source	recent	--lines	200	--session	fm-lab-repo-tree-ev-3292-9678
+status	--json	--session	fm-lab-repo-tree-ev-3292-9678
+agent	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+session	list	--json	--session	fm-lab-repo-tree-ev-3292-9678
+pane	process-info	--pane	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+workspace	list	--session	fm-lab-repo-tree-ev-3292-9678
+tab	list	--workspace	w1	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	close	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678
+pane	get	w1:p2	--session	fm-lab-repo-tree-ev-3292-9678

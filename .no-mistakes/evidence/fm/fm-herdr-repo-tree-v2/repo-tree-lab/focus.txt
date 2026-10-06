@@ -1,0 +1,3 @@
+focus before grouped spawns: w1/w1:t2
+focus after grouped spawns:  w1/w1:t2
+focus after teardowns:       w1/w1:t2
