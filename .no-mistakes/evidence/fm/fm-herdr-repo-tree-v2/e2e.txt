@@ -1,0 +1,21 @@
+ok - real Herdr lab: an opted-out spawn retains the Stage 1 Herdr command sequence with zero ordering calls
+ok - real Herdr lab: a home that configured nothing is projected by default on herdr 0.9.3
+ok - real Herdr lab: the first projected task on a repository creates its home's repo parent and attaches as a linked-worktree child
+ok - real Herdr lab: the repo parent persists with root provenance after its only child is cleaned up
+ok - real Herdr lab: every projected create, task-tab create, seeded prune, and move preserves active workspace and tab
+ok - real Herdr lab: a later projected task adopts the existing repo parent without creating, renaming, or focusing anything
+ok - real Herdr lab: persisted-focused seeded prune proceeds when no live client is attached
+ok - real Herdr lab: bounded lock contention warns and falls back flat without projection or focus drift
+ok - real Herdr lab: concurrent primary workers form one stable contiguous block without active workspace/tab drift
+ok - real Herdr lab: two concurrent tasks on one repository attach as linked children of the same single repo parent
+ok - real Herdr lab: forced workspace.move failure leaves a successful worker in default order with a warning and no cleanup
+ok - real Herdr lab: a runtime move failure on a repository's first task removes the fresh childless parent through its pane and leaves the task flat
+ok - real Herdr lab: the next task on that repository creates the parent again, lands ahead of it, attaches, and binds
+ok - real Herdr lab: the next spawn on a repository retries a recorded refused parent removal through the pane path, forgets the record, and groups under a new parent
+ok - real Herdr lab: a retry refused for a lasting reason forgets the record with one warning, leaves the parent standing, and groups the task under it
+ok - real Herdr lab: concurrent post-create abort cleanup stays serialized with exact focus restoration
+ok - real Herdr lab: Treehouse commands and metadata shape are byte-identical except for endpoint IDs and spawn incarnation
+ok - real Herdr lab: exact task-pane close removes the projected workspace with no unrestored wrong-focus interval
+ok - real Herdr lab: concurrent projected cleanup is serialized and leaves active workspace/tab unchanged
+tests/fm-backend-herdr-presentation-e2e.test.sh: line 321: 26975 Terminated: 15          teardown_task "focus-$ROUND-a" "$HOME_DIR" > "$TMP_ROOT/focus-$ROUND-a-teardown.out" 2> "$TMP_ROOT/focus-$ROUND-a-teardown.err"
+tests/fm-backend-herdr-presentation-e2e.test.sh: line 321: 26976 Terminated: 15          teardown_task "focus-$ROUND-b" "$HOME_DIR" > "$TMP_ROOT/focus-$ROUND-b-teardown.out" 2> "$TMP_ROOT/focus-$ROUND-b-teardown.err"
